@@ -58,6 +58,7 @@ Git, Jira, Agile/Scrum, Cross-functional Team Leadership
 - **Data Visualization Dashboard**: Pandas/Matplotlib analytics engine  
 - **REST API**: Flask + MongoDB backend integration
 - **Discord Bot**: Database Integration + Cog system slash commands
+
 `Python` `Flask` `Pandas` `Matplotlib`
 
 ---
