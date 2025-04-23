@@ -79,5 +79,5 @@ I'm currently expanding my expertise in:
 - Cross-platform rendering optimization  
 - Open to collaborations and innovative projects!
 
-💌 **Let's Connect**: [xie.4zur3@hotmail.com]  
+💌 **Let's Connect**: xie.4zur3@hotmail.com
 🔗 **Portfolio**: Coming soon
