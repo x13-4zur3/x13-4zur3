@@ -76,7 +76,7 @@ Git, Jira, Agile/Scrum, Cross-functional Team Leadership
 - High-quality game assets (models/textures/animations)  
 - Performance-optimized environment design  
 - Substance Painter material authoring  
-- Collaborative pipeline integration
+- Collaborative pipeline integration   
 [View Repository](https://github.com/x13-4zur3/blender-projects)
 
 ---
