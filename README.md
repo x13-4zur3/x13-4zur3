@@ -44,6 +44,14 @@ Git, Jira, Agile/Scrum, Cross-functional Team Leadership
 - Configured DNS deployment via WHC.ca  
 [View Repository](https://github.com/x13-4zur3/communitywebsite)  
 
+### 🖥️ Productivity (Desktop App)  
+**Full-Stack Developer** | Platform: Desktop  
+`JavaScript` `Node.js` `React` `Tailwind CSS`  
+- Developed an intuitive productivity app combining a to-do list and journal  
+- Implemented responsive UI with dynamic state handling and local data storage  
+- Designed for seamless day planning and reflection workflows  
+[View Repository](https://github.com/x13-4zur3/productivity)
+
 ### 🗡️ Unreal RPG (Coming 2025)  
 **Lead Developer** | Scheduled: Sept 2025  
 `Unreal Engine` `C++` `MongoDB`  
@@ -56,15 +64,15 @@ Git, Jira, Agile/Scrum, Cross-functional Team Leadership
 ## 🐍 Python Showcase  
 - **Content Aggregator**: Web scraping + social media integration  
 - **Data Visualization Dashboard**: Pandas/Matplotlib analytics engine  
-- **REST API**: Flask + MongoDB backend integration
-- **Discord Bot**: Database Integration + Cog system slash commands
+- **REST API**: Flask + MongoDB backend integration  
+- **Discord Bot**: Database Integration + Cog system slash commands  
 
 `Python` `Flask` `Pandas` `Matplotlib`
 
 ---
 
 ## 🎨 3D Art Portfolio  
-**Blender Specialist**   
+**Blender Specialist**  
 - High-quality game assets (models/textures/animations)  
 - Performance-optimized environment design  
 - Substance Painter material authoring  
