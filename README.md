@@ -29,7 +29,7 @@ Git, Jira, Agile/Scrum, Cross-functional Team Leadership
 
 ## 🏆 Featured Projects  
 
-### 🎮 Ninja SImulator (Roblox)  
+### 🎮 Ninja Simulator (Roblox)  
 **Lead Developer** | Released: Aug 2024  
 `C++` `Lua` `Roblox Studio`  
 - Built cooperative multiplayer mechanics with real-time event systems  
