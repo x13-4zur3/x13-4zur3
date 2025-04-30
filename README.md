@@ -9,19 +9,29 @@ Accomplished software developer and 3D artist with proven expertise in game deve
 
 ---
 
-## 🛠️ Technical Arsenal  
+## 🛠️ Technical Arsenal
+
 ### **Programming**  
 C++, Lua, TypeScript (TSX), Java, Python, PHP, C, Ruby, JavaScript  
+
 ### **Game Development**  
 Roblox Studio, Unreal Engine, Multiplayer Systems, Gameplay Scripting  
+
 ### **Web & Backend**  
 Node.js, Express.js, RESTful APIs, Next.js, Flask  
+
 ### **Databases**  
 MongoDB, SQL, Data Modeling, Analytics Integration  
+
 ### **Cloud & DevOps**  
 AWS, Azure, Docker, GitHub Actions, CI/CD  
+
 ### **3D Art Pipeline**  
 Blender (Modeling/Texturing/Animation), Substance Painter, Asset Optimization  
+
+### **Design & Prototyping**  
+Figma  
+
 ### **Collaboration**  
 Git, Jira, Agile/Scrum, Cross-functional Team Leadership
 
