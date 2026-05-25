@@ -62,7 +62,7 @@ Git, Jira, Agile/Scrum, Cross-functional Team Leadership
 - Designed for seamless day planning and reflection workflows  
 [View Repository](https://github.com/x13-4zur3/productivity)
 
-### 🗡️ Unreal RPG (Coming 2025)  
+### 🗡️ Unreal RPG (Coming soon)  
 **Lead Developer** | Scheduled: Sept 2025  
 `Unreal Engine` `C++` `MongoDB`  
 - Architecting cross-platform RPG with cloud-based features  
